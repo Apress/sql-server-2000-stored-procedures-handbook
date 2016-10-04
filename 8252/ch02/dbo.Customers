@@ -1,0 +1,3 @@
+SELECT * 
+FROM dbo.Customers
+WHERE CustomerID LIKE 'AN%'
